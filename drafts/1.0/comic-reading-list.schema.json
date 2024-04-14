@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ComicReadingLists/json-cbl-standard/tree/main/drafts/1.0",
+  "title": "Comic Reading List Schema",
+  "description": "An ordered list of comic book issues which have been composed for the purpose of reading",
+  "type": "object",
+  "properties": {
+    "fileDetails": {
+      "type":"object",
+      "properties": {
+        "version": { "type":"number" },
+        "UUID": { "type":"string" }
+      },
+      "required":["version","UUID"]
+    },
+    "listDetails": {
+      "type":"object",
+      "properties": {
+        "name": {"type":"string"},
+        "description": {"type":"string"},
+        "publisher": {"type":"string"},
+        "imprint": {"type":"string"},
+        "startYear":{ "type":"integer", "minimum":1900, "maximum":2100},
+        "endYear":{ "type":"integer", "minimum":1900, "maximum":2100},
+        "type": { "type": "string", "enum": ["interuniversal", "universal", "team", "character", "story", "master"]},        
+        "tags": { "type": "array", "items": {"type":"string"} },
+        "coverImageURLs": {"type":"array", "items":{ "type": "string", "format": "uri", "pattern": "^https?://" } },
+        "relationships": {
+          "description":"Links to other reading lists which occur before or after this list",
+          "type":"array",
+          "items":{
+            "type":"object",
+            "properties":{ 
+              "name":{ "type":"string" },
+              "UUID":{ "type":"string" },
+              "relationship":{ "type":"string", "enum":["previous","following"]}
+            },
+            "required":["name","UUID","relationship"]
+          }
+        },
+        "source": {
+          "description":"Websites containing useful information about this reading list.",
+          "type":"array",
+          "items":{
+            "type":"object",
+            "properties":{ 
+              "name":{ "type":"string" },
+              "url":{ "type": "string", "format": "uri", "pattern": "^https?://" },
+              "id":{ "type":"string" }
+            },
+            "required":["name"]
+          }   
+        }
+      },
+      "required":["name"]
+    },
+    "issueList": {
+      "type":"array",
+      "items":{
+        "type":"object",
+        "properties":{ 
+          "series":{
+            "type":"object",
+            "properties":{
+              "name":{"type":"string"},
+              "startYear":{ "type":"integer", "minimum":1900, "maximum":2100}
+            },
+            "required":["name","startYear"]
+          },
+          "issue":{
+            "type":"object",
+            "properties":{
+              "number":{"type":"string"},
+              "coverDate":{ "type":"string", "format":"date"},
+              "type":{ "type":"string", "enum":["Event Core","Event Tie-In","Event One Shot","Ongoing"]}
+            },
+            "required":["number","coverDate"]
+          },
+          "id":{
+            "type":"array",
+            "items":{
+              "properties":{
+                "name":{"type":"string"},
+                "series":{"type":"string"},
+                "issue":{"type":"string"}
+              },
+              "required":["name","series","issue"]
+            }
+          }
+        },
+        "required":["series","issue"]
+      }
+    },
+    "notes":{"type":"string"}
+  },
+  "required":["fileDetails","listDetails","issueList"]
+}
