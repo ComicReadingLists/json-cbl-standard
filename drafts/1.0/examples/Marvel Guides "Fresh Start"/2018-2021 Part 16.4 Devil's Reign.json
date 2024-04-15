@@ -1,0 +1,1048 @@
+{
+  "fileDetails": {
+    "UUID": "87ace679-ace1-4120-992e-d1089d14e7bf",
+    "version": 1.0
+  },
+  "listDetails": {
+    "name": "Part 16.4 Devil's Reign",
+    "startYear": 2021,
+    "endYear": 2023,
+    "publisher": "Marvel",
+    "type": "character",
+    "tags": ["daredevil", "marvel guides", "fresh start"],
+    "relationships": [
+      {
+        "name": "Part 16.3 Death of Doctor Strange",
+        "UUID": "6bf5f0fa-274f-4977-8645-93df2fe41abf",
+        "relationship": "previous"
+      },
+      {
+        "name": "Part 16.5 Beyond",
+        "UUID": "b6557071-962f-4c8c-acbb-a50a2ec2aab4",
+        "relationship": "following"
+      }
+    ],
+    "source": [
+      {
+        "name": "Marvel Guides",
+        "url": "https://marvelguides.com/fresh-start-finale-reading-order"
+      }
+    ]
+  },
+  "issueList": [
+    {
+      "seriesName": "Daredevil",
+      "seriesStartYear": 2019,
+      "issueNumber": "36",
+      "issueCoverDate": "2022-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "116964",
+          "issue": "896126"
+        },
+        {
+          "name": "metron",
+          "series": "149",
+          "issue": "40622"
+        }
+      ]
+    },
+    {
+      "seriesName": "Elektra",
+      "seriesStartYear": 2022,
+      "issueNumber": "100",
+      "issueCoverDate": "2022-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "142345",
+          "issue": "917449"
+        },
+        {
+          "name": "metron",
+          "series": "3254",
+          "issue": "44896"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Fist: Heart of the Dragon",
+      "seriesStartYear": 2021,
+      "issueNumber": "1",
+      "issueCoverDate": "2021-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "133355",
+          "issue": "825506"
+        },
+        {
+          "name": "metron",
+          "series": "1820",
+          "issue": "23180"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Fist: Heart of the Dragon",
+      "seriesStartYear": 2021,
+      "issueNumber": "2",
+      "issueCoverDate": "2021-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "133355",
+          "issue": "828855"
+        },
+        {
+          "name": "metron",
+          "series": "1820",
+          "issue": "25226"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Fist: Heart of the Dragon",
+      "seriesStartYear": 2021,
+      "issueNumber": "3",
+      "issueCoverDate": "2021-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "133355",
+          "issue": "838779"
+        },
+        {
+          "name": "metron",
+          "series": "1820",
+          "issue": "26997"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Fist: Heart of the Dragon",
+      "seriesStartYear": 2021,
+      "issueNumber": "4",
+      "issueCoverDate": "2021-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "133355",
+          "issue": "842962"
+        },
+        {
+          "name": "metron",
+          "series": "1820",
+          "issue": "28833"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Fist: Heart of the Dragon",
+      "seriesStartYear": 2021,
+      "issueNumber": "5",
+      "issueCoverDate": "2021-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "133355",
+          "issue": "847513"
+        },
+        {
+          "name": "metron",
+          "series": "1820",
+          "issue": "29928"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Fist: Heart of the Dragon",
+      "seriesStartYear": 2021,
+      "issueNumber": "6",
+      "issueCoverDate": "2021-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "133355",
+          "issue": "857655"
+        },
+        {
+          "name": "metron",
+          "series": "1820",
+          "issue": "31275"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "1",
+      "issueCoverDate": "2021-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "872884"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "34192"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "2",
+      "issueCoverDate": "2021-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "880932"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "36468"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "3",
+      "issueCoverDate": "2021-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "885612"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "38276"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "4",
+      "issueCoverDate": "2021-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "891572"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "39646"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "5",
+      "issueCoverDate": "2022-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "894147"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "40287"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "6",
+      "issueCoverDate": "2022-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "899175"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "41347"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "7",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "903914"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "42708"
+        }
+      ]
+    },
+    {
+      "seriesName": "Spider-Woman",
+      "seriesStartYear": 2020,
+      "issueNumber": "13",
+      "issueCoverDate": "2021-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "125812",
+          "issue": "871609"
+        },
+        {
+          "name": "metron",
+          "series": "1162",
+          "issue": "33812"
+        }
+      ]
+    },
+    {
+      "seriesName": "Spider-Woman",
+      "seriesStartYear": 2020,
+      "issueNumber": "14",
+      "issueCoverDate": "2021-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "125812",
+          "issue": "880934"
+        },
+        {
+          "name": "metron",
+          "series": "1162",
+          "issue": "36470"
+        }
+      ]
+    },
+    {
+      "seriesName": "Spider-Woman",
+      "seriesStartYear": 2020,
+      "issueNumber": "15",
+      "issueCoverDate": "2021-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "125812",
+          "issue": "884899"
+        },
+        {
+          "name": "metron",
+          "series": "1162",
+          "issue": "37871"
+        }
+      ]
+    },
+    {
+      "seriesName": "Spider-Woman",
+      "seriesStartYear": 2020,
+      "issueNumber": "16",
+      "issueCoverDate": "2021-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "125812",
+          "issue": "891573"
+        },
+        {
+          "name": "metron",
+          "series": "1162",
+          "issue": "39707"
+        }
+      ]
+    },
+    {
+      "seriesName": "Spider-Woman",
+      "seriesStartYear": 2020,
+      "issueNumber": "17",
+      "issueCoverDate": "2022-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "125812",
+          "issue": "894363"
+        },
+        {
+          "name": "metron",
+          "series": "1162",
+          "issue": "40290"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign",
+      "seriesStartYear": 2021,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "140354",
+          "issue": "897325"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign: Villains for Hire",
+      "seriesStartYear": 2022,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141327",
+          "issue": "903909"
+        },
+        {
+          "name": "metron",
+          "series": "3074",
+          "issue": "42717"
+        }
+      ]
+    },
+    {
+      "seriesName": "Spider-Woman",
+      "seriesStartYear": 2020,
+      "issueNumber": "18",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "125812",
+          "issue": "902704"
+        },
+        {
+          "name": "metron",
+          "series": "1162",
+          "issue": "42314"
+        }
+      ]
+    },
+    {
+      "seriesName": "Spider-Woman",
+      "seriesStartYear": 2020,
+      "issueNumber": "19",
+      "issueCoverDate": "2022-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "125812",
+          "issue": "905795"
+        },
+        {
+          "name": "metron",
+          "series": "1162",
+          "issue": "43073"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign: X-Men",
+      "seriesStartYear": 2022,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141328",
+          "issue": "903910"
+        },
+        {
+          "name": "metron",
+          "series": "3073",
+          "issue": "42704"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign: X-Men",
+      "seriesStartYear": 2022,
+      "issueNumber": "2",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141328",
+          "issue": "909677"
+        },
+        {
+          "name": "metron",
+          "series": "3073",
+          "issue": "43660"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign: X-Men",
+      "seriesStartYear": 2022,
+      "issueNumber": "3",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141328",
+          "issue": "912248"
+        },
+        {
+          "name": "metron",
+          "series": "3073",
+          "issue": "44452"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign: Moon Knight",
+      "seriesStartYear": 2022,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141844",
+          "issue": "910619"
+        },
+        {
+          "name": "metron",
+          "series": "3196",
+          "issue": "44158"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "8",
+      "issueCoverDate": "2022-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "906633"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "43472"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign",
+      "seriesStartYear": 2021,
+      "issueNumber": "2",
+      "issueCoverDate": "2022-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "140354",
+          "issue": "900390"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign: Superior Four",
+      "seriesStartYear": 2022,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141177",
+          "issue": "902682"
+        },
+        {
+          "name": "metron",
+          "series": "3034",
+          "issue": "42320"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign: Superior Four",
+      "seriesStartYear": 2022,
+      "issueNumber": "2",
+      "issueCoverDate": "2022-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141177",
+          "issue": "907439"
+        },
+        {
+          "name": "metron",
+          "series": "3034",
+          "issue": "43538"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign: Superior Four",
+      "seriesStartYear": 2022,
+      "issueNumber": "3",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141177",
+          "issue": "910749"
+        },
+        {
+          "name": "metron",
+          "series": "3034",
+          "issue": "44160"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign: Winter Soldier",
+      "seriesStartYear": 2022,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141458",
+          "issue": "904766"
+        },
+        {
+          "name": "metron",
+          "series": "3091",
+          "issue": "42925"
+        }
+      ]
+    },
+    {
+      "seriesName": "Daredevil: Woman Without Fear",
+      "seriesStartYear": 2022,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141175",
+          "issue": "902678"
+        },
+        {
+          "name": "metron",
+          "series": "3032",
+          "issue": "42305"
+        }
+      ]
+    },
+    {
+      "seriesName": "Daredevil: Woman Without Fear",
+      "seriesStartYear": 2022,
+      "issueNumber": "2",
+      "issueCoverDate": "2022-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141175",
+          "issue": "905713"
+        },
+        {
+          "name": "metron",
+          "series": "3032",
+          "issue": "43068"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign",
+      "seriesStartYear": 2021,
+      "issueNumber": "3",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "140354",
+          "issue": "904775"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign: Spider-Man",
+      "seriesStartYear": 2022,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141785",
+          "issue": "909805"
+        },
+        {
+          "name": "metron",
+          "series": "3125",
+          "issue": "43658"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign",
+      "seriesStartYear": 2021,
+      "issueNumber": "4",
+      "issueCoverDate": "2022-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "140354",
+          "issue": "906630"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign: Villains for Hire",
+      "seriesStartYear": 2022,
+      "issueNumber": "2",
+      "issueCoverDate": "2022-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141327",
+          "issue": "908698"
+        },
+        {
+          "name": "metron",
+          "series": "3074",
+          "issue": "43659"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign: Villains for Hire",
+      "seriesStartYear": 2022,
+      "issueNumber": "3",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141327",
+          "issue": "912257"
+        },
+        {
+          "name": "metron",
+          "series": "3074",
+          "issue": "44451"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign",
+      "seriesStartYear": 2021,
+      "issueNumber": "5",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "140354",
+          "issue": "910627"
+        }
+      ]
+    },
+    {
+      "seriesName": "Daredevil: Woman Without Fear",
+      "seriesStartYear": 2022,
+      "issueNumber": "3",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141175",
+          "issue": "909676"
+        },
+        {
+          "name": "metron",
+          "series": "3032",
+          "issue": "44134"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign",
+      "seriesStartYear": 2021,
+      "issueNumber": "6",
+      "issueCoverDate": "2022-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "140354",
+          "issue": "914649"
+        }
+      ]
+    },
+    {
+      "seriesName": "Spider-Woman",
+      "seriesStartYear": 2020,
+      "issueNumber": "20",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "125812",
+          "issue": "909672"
+        },
+        {
+          "name": "metron",
+          "series": "1162",
+          "issue": "44137"
+        }
+      ]
+    },
+    {
+      "seriesName": "Spider-Woman",
+      "seriesStartYear": 2020,
+      "issueNumber": "21",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "125812",
+          "issue": "913168"
+        },
+        {
+          "name": "metron",
+          "series": "1162",
+          "issue": "44475"
+        }
+      ]
+    },
+    {
+      "seriesName": "Devil's Reign: Omega",
+      "seriesStartYear": 2022,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130207",
+          "issue": "926189"
+        },
+        {
+          "name": "metron",
+          "series": "3358",
+          "issue": "47701"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "9",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "909682"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "44136"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "10",
+      "issueCoverDate": "2022-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "914551"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "44872"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "11",
+      "issueCoverDate": "2022-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "926637"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "47703"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "12",
+      "issueCoverDate": "2022-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "931635"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "48778"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "13",
+      "issueCoverDate": "2022-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "935806"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "50223"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "14",
+      "issueCoverDate": "2022-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "940158"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "50694"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "15",
+      "issueCoverDate": "2022-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "946132"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "51622"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "16",
+      "issueCoverDate": "2022-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "951445"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "52441"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "17",
+      "issueCoverDate": "2023-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "954136"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "52864"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "18",
+      "issueCoverDate": "2023-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "961942"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "53503"
+        }
+      ]
+    },
+    {
+      "seriesName": "Moon Knight",
+      "seriesStartYear": 2021,
+      "issueNumber": "19",
+      "issueCoverDate": "2023-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137698",
+          "issue": "963977"
+        },
+        {
+          "name": "metron",
+          "series": "2483",
+          "issue": "54050"
+        }
+      ]
+    }
+  ]
+}
