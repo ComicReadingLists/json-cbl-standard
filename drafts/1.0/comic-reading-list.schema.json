@@ -44,7 +44,7 @@
           "items":{
             "type":"object",
             "properties":{ 
-              "name":{ "type":"string" },
+              "name":{ "type":"string", "$comment":"Field should be written in capital case with spaces, using the full name of the source"},
               "url":{ "type": "string", "format": "uri", "pattern": "^https?://" },
               "id":{ "type":"string" }
             },
@@ -54,33 +54,22 @@
       },
       "required":["name"]
     },
+    "notes":{"type":"string"},
     "issueList": {
       "type":"array",
       "items":{
         "type":"object",
         "properties":{ 
-          "series":{
-            "type":"object",
-            "properties":{
-              "name":{"type":"string"},
-              "startYear":{ "type":"integer", "minimum":1900, "maximum":2100}
-            },
-            "required":["name","startYear"]
-          },
-          "issue":{
-            "type":"object",
-            "properties":{
-              "number":{"type":"string"},
-              "coverDate":{ "type":"string", "format":"date"},
-              "type":{ "type":"string", "enum":["Event Core","Event Tie-In","Event One Shot","Ongoing"]}
-            },
-            "required":["number","coverDate"]
-          },
+          "seriesName":{"type":"string"},
+          "seriesStartYear":{ "type":"integer", "minimum":1900, "maximum":2100},
+          "issueNumber":{"type":"string"},
+          "issueCoverDate":{ "type":"string", "format":"date"},
+          "issueType":{ "type":"string", "enum":["Event Core","Event Tie-In","Event One Shot","Ongoing"]},
           "id":{
             "type":"array",
             "items":{
               "properties":{
-                "name":{"type":"string"},
+                "name":{"type":"string","enum":["comicvine","metron","grandComicsDatabase"]},
                 "series":{"type":"string"},
                 "issue":{"type":"string"}
               },
@@ -88,10 +77,9 @@
             }
           }
         },
-        "required":["series","issue"]
+        "required":["seriesName","seriesStartYear","issueNumber","issueCoverDate"]
       }
-    },
-    "notes":{"type":"string"}
+    }
   },
   "required":["fileDetails","listDetails","issueList"]
 }
