@@ -22,8 +22,18 @@
         "imprint": {"type":"string"},
         "startYear":{ "type":"integer", "minimum":1900, "maximum":2100},
         "endYear":{ "type":"integer", "minimum":1900, "maximum":2100},
-        "type": { "type": "string", "enum": ["interuniversal", "universal", "team", "character", "story", "master"]},        
-        "tags": { "type": "array", "items": {"type":"string"} },
+        "type": { 
+          "type": "string", 
+          "enum": ["master","interuniversal", "universal", "team", "character", "story"],
+          "description": "Describes the scope of the reading list in impact over the publisher's works, ranging from 'master' lists (all publisher works), to 'universal' events (which include crossovers universe-wide), to 'story' events (arcs contained to a single character)."
+        },        
+        "tags": { 
+          "type": "array", 
+          "items": {
+            "description":"Tags may be used to identify list source, characters, teams and eras of the list. Entries should be all lower case with proper grammar.",
+            "type":"string"
+          }
+        },
         "coverImageURLs": {"type":"array", "items":{ "type": "string", "format": "uri", "pattern": "^https?://" } },
         "relationships": {
           "description":"Links to other reading lists which occur before or after this list",
@@ -44,7 +54,7 @@
           "items":{
             "type":"object",
             "properties":{ 
-              "name":{ "type":"string", "$comment":"Field should be written in capital case with spaces, using the full name of the source"},
+              "name":{ "type":"string", "description":"Field should be written in capital case with spaces, using the full name of the source"},
               "url":{ "type": "string", "format": "uri", "pattern": "^https?://" },
               "id":{ "type":"string" }
             },

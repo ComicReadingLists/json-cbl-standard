@@ -1,0 +1,1637 @@
+{
+  "fileDetails": {
+    "UUID": "507e7444-8f5f-46fc-a2cc-17f08c000982",
+    "version": 1.0
+  },
+  "listDetails": {
+    "name": "Part 16.2 Sinister War",
+    "startYear": 2021,
+    "endYear": 2022,
+    "publisher": "Marvel",
+    "type": "character",
+    "tags": [
+      "spider-man",
+      "sinister six",
+      "savage six",
+      "marvel guides",
+      "fresh start"
+    ],
+    "relationships": [
+      {
+        "name": "Part 16.1 Reborn Again",
+        "UUID": "a59e4ad5-0d51-4afe-b0f5-6d3e01eb7cc7",
+        "relationship": "previous"
+      },
+      {
+        "name": "Part 16.3 Death of Doctor Strange",
+        "UUID": "6bf5f0fa-274f-4977-8645-93df2fe41abf",
+        "relationship": "following"
+      }
+    ],
+    "source": [
+      {
+        "name": "Marvel Guides",
+        "url": "https://marvelguides.com/fresh-start-finale-reading-order"
+      }
+    ]
+  },
+  "issueList": [
+    {
+      "seriesName": "Non-Stop Spider-Man",
+      "seriesStartYear": 2021,
+      "issueNumber": "1",
+      "issueCoverDate": "2021-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "134390",
+          "issue": "836303"
+        },
+        {
+          "name": "metron",
+          "series": "1983",
+          "issue": "26588"
+        }
+      ]
+    },
+    {
+      "seriesName": "Non-Stop Spider-Man",
+      "seriesStartYear": 2021,
+      "issueNumber": "2",
+      "issueCoverDate": "2021-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "134390",
+          "issue": "842966"
+        },
+        {
+          "name": "metron",
+          "series": "1983",
+          "issue": "28828"
+        }
+      ]
+    },
+    {
+      "seriesName": "Non-Stop Spider-Man",
+      "seriesStartYear": 2021,
+      "issueNumber": "3",
+      "issueCoverDate": "2021-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "134390",
+          "issue": "857657"
+        },
+        {
+          "name": "metron",
+          "series": "1983",
+          "issue": "31277"
+        }
+      ]
+    },
+    {
+      "seriesName": "Non-Stop Spider-Man",
+      "seriesStartYear": 2021,
+      "issueNumber": "4",
+      "issueCoverDate": "2021-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "134390",
+          "issue": "882076"
+        },
+        {
+          "name": "metron",
+          "series": "1983",
+          "issue": "36808"
+        }
+      ]
+    },
+    {
+      "seriesName": "Non-Stop Spider-Man",
+      "seriesStartYear": 2021,
+      "issueNumber": "5",
+      "issueCoverDate": "2021-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "134390",
+          "issue": "886975"
+        },
+        {
+          "name": "metron",
+          "series": "1983",
+          "issue": "38254"
+        }
+      ]
+    },
+    {
+      "seriesName": "Savage Spider-Man",
+      "seriesStartYear": 2022,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141523",
+          "issue": "905792"
+        },
+        {
+          "name": "metron",
+          "series": "3098",
+          "issue": "43082"
+        }
+      ]
+    },
+    {
+      "seriesName": "Savage Spider-Man",
+      "seriesStartYear": 2022,
+      "issueNumber": "2",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141523",
+          "issue": "912247"
+        },
+        {
+          "name": "metron",
+          "series": "3098",
+          "issue": "44457"
+        }
+      ]
+    },
+    {
+      "seriesName": "Savage Spider-Man",
+      "seriesStartYear": 2022,
+      "issueNumber": "3",
+      "issueCoverDate": "2022-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141523",
+          "issue": "926177"
+        },
+        {
+          "name": "metron",
+          "series": "3098",
+          "issue": "45314"
+        }
+      ]
+    },
+    {
+      "seriesName": "Savage Spider-Man",
+      "seriesStartYear": 2022,
+      "issueNumber": "4",
+      "issueCoverDate": "2022-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141523",
+          "issue": "930980"
+        },
+        {
+          "name": "metron",
+          "series": "3098",
+          "issue": "48101"
+        }
+      ]
+    },
+    {
+      "seriesName": "Savage Spider-Man",
+      "seriesStartYear": 2022,
+      "issueNumber": "5",
+      "issueCoverDate": "2022-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141523",
+          "issue": "937725"
+        },
+        {
+          "name": "metron",
+          "series": "3098",
+          "issue": "50231"
+        }
+      ]
+    },
+    {
+      "seriesName": "Daredevil",
+      "seriesStartYear": 2019,
+      "issueNumber": "28",
+      "issueCoverDate": "2021-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "116964",
+          "issue": "836299"
+        },
+        {
+          "name": "metron",
+          "series": "149",
+          "issue": "26579"
+        }
+      ]
+    },
+    {
+      "seriesName": "Daredevil",
+      "seriesStartYear": 2019,
+      "issueNumber": "29",
+      "issueCoverDate": "2021-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "116964",
+          "issue": "842958"
+        },
+        {
+          "name": "metron",
+          "series": "149",
+          "issue": "28821"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "61",
+      "issueCoverDate": "2021-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "836297"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "26577"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "62",
+      "issueCoverDate": "2021-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "839788"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "27481"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "63",
+      "issueCoverDate": "2021-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "842198"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "28321"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "64",
+      "issueCoverDate": "2021-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "844965"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "29230"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "65",
+      "issueCoverDate": "2021-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "847507"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "29919"
+        }
+      ]
+    },
+    {
+      "seriesName": "Giant-Size Amazing Spider-Man: King's Ransom",
+      "seriesStartYear": 2021,
+      "issueNumber": "1",
+      "issueCoverDate": "2021-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "136022",
+          "issue": "848850"
+        },
+        {
+          "name": "metron",
+          "series": "2174",
+          "issue": "30389"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "66",
+      "issueCoverDate": "2021-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "851302"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "30655"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "67",
+      "issueCoverDate": "2021-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "857649"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "31279"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "68",
+      "issueCoverDate": "2021-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "858874"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "31660"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "69",
+      "issueCoverDate": "2021-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "863924"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "32501"
+        }
+      ]
+    },
+    {
+      "seriesName": "Giant-Size Amazing Spider-Man: Chameleon Conspiracy",
+      "seriesStartYear": 2021,
+      "issueNumber": "1",
+      "issueCoverDate": "2021-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137255",
+          "issue": "866595"
+        },
+        {
+          "name": "metron",
+          "series": "2366",
+          "issue": "32854"
+        }
+      ]
+    },
+    {
+      "seriesName": "Silk",
+      "seriesStartYear": 2021,
+      "issueNumber": "1",
+      "issueCoverDate": "2021-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "135005",
+          "issue": "840957"
+        },
+        {
+          "name": "metron",
+          "series": "2072",
+          "issue": "27929"
+        }
+      ]
+    },
+    {
+      "seriesName": "Silk",
+      "seriesStartYear": 2021,
+      "issueNumber": "2",
+      "issueCoverDate": "2021-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "135005",
+          "issue": "846091"
+        },
+        {
+          "name": "metron",
+          "series": "2072",
+          "issue": "29619"
+        }
+      ]
+    },
+    {
+      "seriesName": "Silk",
+      "seriesStartYear": 2021,
+      "issueNumber": "3",
+      "issueCoverDate": "2021-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "135005",
+          "issue": "848855"
+        },
+        {
+          "name": "metron",
+          "series": "2072",
+          "issue": "30382"
+        }
+      ]
+    },
+    {
+      "seriesName": "Silk",
+      "seriesStartYear": 2021,
+      "issueNumber": "4",
+      "issueCoverDate": "2021-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "135005",
+          "issue": "863932"
+        },
+        {
+          "name": "metron",
+          "series": "2072",
+          "issue": "32500"
+        }
+      ]
+    },
+    {
+      "seriesName": "Silk",
+      "seriesStartYear": 2021,
+      "issueNumber": "5",
+      "issueCoverDate": "2021-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "135005",
+          "issue": "877067"
+        },
+        {
+          "name": "metron",
+          "series": "2072",
+          "issue": "35351"
+        }
+      ]
+    },
+    {
+      "seriesName": "Daredevil",
+      "seriesStartYear": 2019,
+      "issueNumber": "30",
+      "issueCoverDate": "2021-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "116964",
+          "issue": "851306"
+        },
+        {
+          "name": "metron",
+          "series": "149",
+          "issue": "30657"
+        }
+      ]
+    },
+    {
+      "seriesName": "Daredevil",
+      "seriesStartYear": 2019,
+      "issueNumber": "31",
+      "issueCoverDate": "2021-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "116964",
+          "issue": "866593"
+        },
+        {
+          "name": "metron",
+          "series": "149",
+          "issue": "32845"
+        }
+      ]
+    },
+    {
+      "seriesName": "Daredevil",
+      "seriesStartYear": 2019,
+      "issueNumber": "32",
+      "issueCoverDate": "2021-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "116964",
+          "issue": "874641"
+        },
+        {
+          "name": "metron",
+          "series": "149",
+          "issue": "34957"
+        }
+      ]
+    },
+    {
+      "seriesName": "Daredevil",
+      "seriesStartYear": 2019,
+      "issueNumber": "33",
+      "issueCoverDate": "2021-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "116964",
+          "issue": "878797"
+        },
+        {
+          "name": "metron",
+          "series": "149",
+          "issue": "35962"
+        }
+      ]
+    },
+    {
+      "seriesName": "Daredevil",
+      "seriesStartYear": 2019,
+      "issueNumber": "34",
+      "issueCoverDate": "2021-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "116964",
+          "issue": "884075"
+        },
+        {
+          "name": "metron",
+          "series": "149",
+          "issue": "37416"
+        }
+      ]
+    },
+    {
+      "seriesName": "Daredevil",
+      "seriesStartYear": 2019,
+      "issueNumber": "35",
+      "issueCoverDate": "2021-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "116964",
+          "issue": "891570"
+        },
+        {
+          "name": "metron",
+          "series": "149",
+          "issue": "39703"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "7",
+      "issueCoverDate": "2021-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "838839"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "26998"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "8",
+      "issueCoverDate": "2021-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "842963"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "28827"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "9",
+      "issueCoverDate": "2021-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "858878"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "31657"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "10",
+      "issueCoverDate": "2021-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "871606"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "33809"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "11",
+      "issueCoverDate": "2021-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "880928"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "36465"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "12",
+      "issueCoverDate": "2021-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "884874"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "37868"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "13",
+      "issueCoverDate": "2021-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "889474"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "39372"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "14",
+      "issueCoverDate": "2022-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "895344"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "40297"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "15",
+      "issueCoverDate": "2022-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "899174"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "41344"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "70",
+      "issueCoverDate": "2021-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "868603"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "33675"
+        }
+      ]
+    },
+    {
+      "seriesName": "Sinister War",
+      "seriesStartYear": 2021,
+      "issueNumber": "1",
+      "issueCoverDate": "2021-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137605",
+          "issue": "871607"
+        },
+        {
+          "name": "metron",
+          "series": "2453",
+          "issue": "33810"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "71",
+      "issueCoverDate": "2021-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "874540"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "34962"
+        }
+      ]
+    },
+    {
+      "seriesName": "Sinister War",
+      "seriesStartYear": 2021,
+      "issueNumber": "2",
+      "issueCoverDate": "2021-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137605",
+          "issue": "877068"
+        },
+        {
+          "name": "metron",
+          "series": "2453",
+          "issue": "35354"
+        }
+      ]
+    },
+    {
+      "seriesName": "Sinister War",
+      "seriesStartYear": 2021,
+      "issueNumber": "3",
+      "issueCoverDate": "2021-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137605",
+          "issue": "880933"
+        },
+        {
+          "name": "metron",
+          "series": "2453",
+          "issue": "36469"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "72",
+      "issueCoverDate": "2021-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "882053"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "36811"
+        }
+      ]
+    },
+    {
+      "seriesName": "Sinister War",
+      "seriesStartYear": 2021,
+      "issueNumber": "4",
+      "issueCoverDate": "2021-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137605",
+          "issue": "882902"
+        },
+        {
+          "name": "metron",
+          "series": "2453",
+          "issue": "37077"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "73",
+      "issueCoverDate": "2021-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "884071"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "37338"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "74",
+      "issueCoverDate": "2021-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "886944"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "38589"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "16",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "904776"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "42928"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "17",
+      "issueCoverDate": "2022-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "908687"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "43650"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "18",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "912252"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "44454"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "19",
+      "issueCoverDate": "2022-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "921061"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "47343"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "20",
+      "issueCoverDate": "2022-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "930943"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "48099"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "21",
+      "issueCoverDate": "2022-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "937512"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "49768"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "22",
+      "issueCoverDate": "2022-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "940235"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "50691"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "23",
+      "issueCoverDate": "2022-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "946717"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "51634"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "24",
+      "issueCoverDate": "2022-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "951697"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "52439"
+        }
+      ]
+    },
+    {
+      "seriesName": "Iron Man",
+      "seriesStartYear": 2020,
+      "issueNumber": "25",
+      "issueCoverDate": "2023-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "130396",
+          "issue": "955119"
+        },
+        {
+          "name": "metron",
+          "series": "1540",
+          "issue": "52941"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "24",
+      "issueCoverDate": "2021-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "839797"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "32786"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "25",
+      "issueCoverDate": "2021-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "846088"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "32787"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "26",
+      "issueCoverDate": "2021-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "855630"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "32788"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "27",
+      "issueCoverDate": "2021-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "861679"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "32789"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "28",
+      "issueCoverDate": "2021-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "872883"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "34191"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "29",
+      "issueCoverDate": "2021-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "878825"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "35967"
+        }
+      ]
+    },
+    {
+      "seriesName": "Free Comic Book Day 2021: Spider-Man/Venom",
+      "seriesStartYear": 2021,
+      "issueNumber": "1",
+      "issueCoverDate": "2021-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "138341",
+          "issue": "880889"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "75",
+      "issueCoverDate": "2021-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "888642"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "38878"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "76",
+      "issueCoverDate": "2021-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "889467"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "39377"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "77",
+      "issueCoverDate": "2021-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "891568"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "39708"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "78",
+      "issueCoverDate": "2022-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "893909"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "39801"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "78.BEY",
+      "issueCoverDate": "2022-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "894132"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "40293"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "79",
+      "issueCoverDate": "2022-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "895336"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "40299"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "80",
+      "issueCoverDate": "2022-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "896091"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "40636"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "30",
+      "issueCoverDate": "2021-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "886974"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "38585"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "31",
+      "issueCoverDate": "2021-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "889480"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "39374"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "32",
+      "issueCoverDate": "2022-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "893941"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "39798"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "81",
+      "issueCoverDate": "2022-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "898360"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "41327"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "33",
+      "issueCoverDate": "2022-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "898367"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "41333"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "34",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "903913"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "42707"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "35",
+      "issueCoverDate": "2022-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "908693"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "43651"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "36",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "913172"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "44471"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "37",
+      "issueCoverDate": "2022-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "916415"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "44887"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "38",
+      "issueCoverDate": "2022-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "928435"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "47839"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "39",
+      "issueCoverDate": "2022-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "931629"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "48777"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "40",
+      "issueCoverDate": "2022-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "937727"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "49771"
+        }
+      ]
+    },
+    {
+      "seriesName": "Miles Morales: Spider-Man",
+      "seriesStartYear": 2019,
+      "issueNumber": "41",
+      "issueCoverDate": "2022-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "146734",
+          "issue": "943901"
+        },
+        {
+          "name": "metron",
+          "series": "2361",
+          "issue": "51381"
+        }
+      ]
+    }
+  ]
+}
