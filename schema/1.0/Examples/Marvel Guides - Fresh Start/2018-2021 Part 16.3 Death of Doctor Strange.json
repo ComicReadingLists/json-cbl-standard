@@ -1,0 +1,544 @@
+{
+  "fileDetails": {
+    "UUID": "6bf5f0fa-274f-4977-8645-93df2fe41abf",
+    "version": 1.0
+  },
+  "listDetails": {
+    "name": "Part 16.3 Death of Doctor Strange",
+    "startYear": 2021,
+    "endYear": 2022,
+    "publisher": "Marvel",
+    "type": "character",
+    "tags": ["doctor strange", "marvel guides", "fresh start"],
+    "relationships": [
+      {
+        "name": "Part 16.2 Sinister War",
+        "UUID": "507e7444-8f5f-46fc-a2cc-17f08c000982",
+        "relationship": "previous"
+      },
+      {
+        "name": "Part 16.4 Devil's Reign",
+        "UUID": "87ace679-ace1-4120-992e-d1089d14e7bf",
+        "relationship": "following"
+      }
+    ],
+    "source": [
+      {
+        "name": "Marvel Guides",
+        "url": "https://marvelguides.com/fresh-start-finale-reading-order"
+      }
+    ]
+  },
+  "issueList": [
+    {
+      "seriesName": "Defenders",
+      "seriesStartYear": 2021,
+      "issueNumber": "1",
+      "issueCoverDate": "2021-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "138207",
+          "issue": "878798"
+        },
+        {
+          "name": "metron",
+          "series": "2529",
+          "issue": "35966"
+        }
+      ]
+    },
+    {
+      "seriesName": "Defenders",
+      "seriesStartYear": 2021,
+      "issueNumber": "2",
+      "issueCoverDate": "2021-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "138207",
+          "issue": "884100"
+        },
+        {
+          "name": "metron",
+          "series": "2529",
+          "issue": "37417"
+        }
+      ]
+    },
+    {
+      "seriesName": "Defenders",
+      "seriesStartYear": 2021,
+      "issueNumber": "3",
+      "issueCoverDate": "2021-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "138207",
+          "issue": "888647"
+        },
+        {
+          "name": "metron",
+          "series": "2529",
+          "issue": "38873"
+        }
+      ]
+    },
+    {
+      "seriesName": "Defenders",
+      "seriesStartYear": 2021,
+      "issueNumber": "4",
+      "issueCoverDate": "2022-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "138207",
+          "issue": "898368"
+        },
+        {
+          "name": "metron",
+          "series": "2529",
+          "issue": "41204"
+        }
+      ]
+    },
+    {
+      "seriesName": "Defenders",
+      "seriesStartYear": 2021,
+      "issueNumber": "5",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "138207",
+          "issue": "903908"
+        },
+        {
+          "name": "metron",
+          "series": "2529",
+          "issue": "42703"
+        }
+      ]
+    },
+    {
+      "seriesName": "Death of Doctor Strange",
+      "seriesStartYear": 2021,
+      "issueNumber": "1",
+      "issueCoverDate": "2021-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "139125",
+          "issue": "885608"
+        },
+        {
+          "name": "metron",
+          "series": "2692",
+          "issue": "38271"
+        }
+      ]
+    },
+    {
+      "seriesName": "Death of Doctor Strange",
+      "seriesStartYear": 2021,
+      "issueNumber": "2",
+      "issueCoverDate": "2021-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "139125",
+          "issue": "890606"
+        },
+        {
+          "name": "metron",
+          "series": "2692",
+          "issue": "39487"
+        }
+      ]
+    },
+    {
+      "seriesName": "Death of Doctor Strange: The Avengers",
+      "seriesStartYear": 2021,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "139949",
+          "issue": "892245"
+        }
+      ]
+    },
+    {
+      "seriesName": "Death of Doctor Strange: Spider-Man",
+      "seriesStartYear": 2021,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "140282",
+          "issue": "896132"
+        }
+      ]
+    },
+    {
+      "seriesName": "Strange Academy Presents: The Death of Doctor Strange",
+      "seriesStartYear": 2021,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "139950",
+          "issue": "892246"
+        }
+      ]
+    },
+    {
+      "seriesName": "Death of Doctor Strange: White Fox",
+      "seriesStartYear": 2021,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "140283",
+          "issue": "896133"
+        }
+      ]
+    },
+    {
+      "seriesName": "Death of Doctor Strange: Blade",
+      "seriesStartYear": 2021,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "140357",
+          "issue": "897359"
+        }
+      ]
+    },
+    {
+      "seriesName": "Death of Doctor Strange: Bloodstone",
+      "seriesStartYear": 2022,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141176",
+          "issue": "902681"
+        },
+        {
+          "name": "metron",
+          "series": "3033",
+          "issue": "42319"
+        }
+      ]
+    },
+    {
+      "seriesName": "Death of Doctor Strange: X-Men/Black Knight",
+      "seriesStartYear": 2022,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141326",
+          "issue": "903907"
+        }
+      ]
+    },
+    {
+      "seriesName": "Death of Doctor Strange",
+      "seriesStartYear": 2021,
+      "issueNumber": "3",
+      "issueCoverDate": "2022-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "139125",
+          "issue": "895343"
+        },
+        {
+          "name": "metron",
+          "series": "2692",
+          "issue": "40296"
+        }
+      ]
+    },
+    {
+      "seriesName": "Death of Doctor Strange",
+      "seriesStartYear": 2021,
+      "issueNumber": "4",
+      "issueCoverDate": "2022-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "139125",
+          "issue": "900389"
+        },
+        {
+          "name": "metron",
+          "series": "2692",
+          "issue": "41705"
+        }
+      ]
+    },
+    {
+      "seriesName": "Death of Doctor Strange",
+      "seriesStartYear": 2021,
+      "issueNumber": "5",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "139125",
+          "issue": "904774"
+        },
+        {
+          "name": "metron",
+          "series": "2692",
+          "issue": "42926"
+        }
+      ]
+    },
+    {
+      "seriesName": "Strange Academy",
+      "seriesStartYear": 2020,
+      "issueNumber": "11",
+      "issueCoverDate": "2021-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "125477",
+          "issue": "858880"
+        },
+        {
+          "name": "metron",
+          "series": "1138",
+          "issue": "31659"
+        }
+      ]
+    },
+    {
+      "seriesName": "Strange Academy",
+      "seriesStartYear": 2020,
+      "issueNumber": "12",
+      "issueCoverDate": "2021-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "125477",
+          "issue": "882078"
+        },
+        {
+          "name": "metron",
+          "series": "1138",
+          "issue": "36809"
+        }
+      ]
+    },
+    {
+      "seriesName": "Strange Academy",
+      "seriesStartYear": 2020,
+      "issueNumber": "13",
+      "issueCoverDate": "2022-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "125477",
+          "issue": "893920"
+        },
+        {
+          "name": "metron",
+          "series": "1138",
+          "issue": "39800"
+        }
+      ]
+    },
+    {
+      "seriesName": "Strange Academy",
+      "seriesStartYear": 2020,
+      "issueNumber": "14",
+      "issueCoverDate": "2022-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "125477",
+          "issue": "898369"
+        },
+        {
+          "name": "metron",
+          "series": "1138",
+          "issue": "41336"
+        }
+      ]
+    },
+    {
+      "seriesName": "Strange Academy",
+      "seriesStartYear": 2020,
+      "issueNumber": "15",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "125477",
+          "issue": "903867"
+        },
+        {
+          "name": "metron",
+          "series": "1138",
+          "issue": "42713"
+        }
+      ]
+    },
+    {
+      "seriesName": "Strange Academy",
+      "seriesStartYear": 2020,
+      "issueNumber": "16",
+      "issueCoverDate": "2022-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "125477",
+          "issue": "908691"
+        },
+        {
+          "name": "metron",
+          "series": "1138",
+          "issue": "43542"
+        }
+      ]
+    },
+    {
+      "seriesName": "Strange Academy",
+      "seriesStartYear": 2020,
+      "issueNumber": "17",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "125477",
+          "issue": "910622"
+        },
+        {
+          "name": "metron",
+          "series": "1138",
+          "issue": "44166"
+        }
+      ]
+    },
+    {
+      "seriesName": "Strange Academy",
+      "seriesStartYear": 2020,
+      "issueNumber": "18",
+      "issueCoverDate": "2022-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "125477",
+          "issue": "934991"
+        },
+        {
+          "name": "metron",
+          "series": "1138",
+          "issue": "45318"
+        }
+      ]
+    },
+    {
+      "seriesName": "X-Men",
+      "seriesStartYear": 2021,
+      "issueNumber": "4",
+      "issueCoverDate": "2021-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137402",
+          "issue": "889466"
+        },
+        {
+          "name": "metron",
+          "series": "2443",
+          "issue": "39379"
+        }
+      ]
+    },
+    {
+      "seriesName": "X-Men",
+      "seriesStartYear": 2021,
+      "issueNumber": "5",
+      "issueCoverDate": "2022-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137402",
+          "issue": "895353"
+        },
+        {
+          "name": "metron",
+          "series": "2443",
+          "issue": "40302"
+        }
+      ]
+    },
+    {
+      "seriesName": "X-Men",
+      "seriesStartYear": 2021,
+      "issueNumber": "6",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137402",
+          "issue": "901350"
+        },
+        {
+          "name": "metron",
+          "series": "2443",
+          "issue": "42152"
+        }
+      ]
+    },
+    {
+      "seriesName": "X-Men",
+      "seriesStartYear": 2021,
+      "issueNumber": "7",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137402",
+          "issue": "904779"
+        },
+        {
+          "name": "metron",
+          "series": "2443",
+          "issue": "42933"
+        }
+      ]
+    },
+    {
+      "seriesName": "X-Men",
+      "seriesStartYear": 2021,
+      "issueNumber": "8",
+      "issueCoverDate": "2022-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "137402",
+          "issue": "907432"
+        },
+        {
+          "name": "metron",
+          "series": "2443",
+          "issue": "43549"
+        }
+      ]
+    }
+  ]
+}

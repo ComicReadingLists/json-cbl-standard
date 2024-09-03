@@ -1,0 +1,322 @@
+{
+  "fileDetails": {
+    "UUID": "b6557071-962f-4c8c-acbb-a50a2ec2aab4",
+    "version": 1.0
+  },
+  "listDetails": {
+    "name": "Part 16.5 Beyond",
+    "startYear": 2022,
+    "endYear": 2022,
+    "publisher": "Marvel",
+    "type": "story",
+    "tags": ["spider-man", "marvel guides", "fresh start"],
+    "relationships": [
+      {
+        "name": "Part 16.4 Devil's Reign",
+        "UUID": "87ace679-ace1-4120-992e-d1089d14e7bf",
+        "relationship": "previous"
+      },
+      {
+        "name": "Part 1.1 For All Time",
+        "UUID": "a8789890-bb3a-481a-b28e-fd7cb34c72c1",
+        "relationship": "following"
+      }
+    ],
+    "source": [
+      {
+        "name": "Marvel Guides",
+        "url": "https://marvelguides.com/fresh-start-finale-reading-order"
+      }
+    ]
+  },
+  "issueList": [
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "80.BEY",
+      "issueCoverDate": "2022-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "897332"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "41317"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "82",
+      "issueCoverDate": "2022-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "899171"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "41520"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "83",
+      "issueCoverDate": "2022-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "900388"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "41704"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "84",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "901342"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "42322"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "85",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "902677"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "42316"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "86",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "903845"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "42714"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "88.BEY",
+      "issueCoverDate": "2022-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "906628"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "43477"
+        }
+      ]
+    },
+    {
+      "seriesName": "Mary Jane & Black Cat: Beyond",
+      "seriesStartYear": 2022,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "141457",
+          "issue": "904764"
+        },
+        {
+          "name": "metron",
+          "series": "3090",
+          "issue": "42929"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "87",
+      "issueCoverDate": "2022-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "904770"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "42930"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "88",
+      "issueCoverDate": "2022-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "905753"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "43081"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "89",
+      "issueCoverDate": "2022-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "907431"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "43545"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "90",
+      "issueCoverDate": "2022-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "908682"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "43654"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "91",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "909681"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "44140"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "92",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "910496"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "44167"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "92.BEY",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "911317"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "44480"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man",
+      "seriesStartYear": 2018,
+      "issueNumber": "93",
+      "issueCoverDate": "2022-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "series": "112161",
+          "issue": "913173"
+        },
+        {
+          "name": "metron",
+          "series": "47",
+          "issue": "44477"
+        }
+      ]
+    }
+  ]
+}
